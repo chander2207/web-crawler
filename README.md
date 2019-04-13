@@ -1,4 +1,9 @@
 # web-crawler
+This project is built on Pycharm.
+
 Crawler to fetch the food ingredients from the webpage epicurious.
 
-Data is saved in a csv file where first column is meant for Recipe and rest tells its ingredient
+It prints the ingrdients and the recipe.
+
+The code is written in the file recipe.py
+
